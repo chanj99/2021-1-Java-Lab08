@@ -6,6 +6,7 @@ import java.lang.reflect.InvocationTargetException;
 import edu.handong.csee.java.converters.*;
 
 /** 
+ * This is mainclass
  * class
 */
 public class IntegratedConverter {
